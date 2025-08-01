@@ -29,7 +29,9 @@ body {
 .timeline-area .header-title h4:hover{
     color: #008080;
 }
-
+.timeline-area .header-title .fa-plus:hover{
+    background-color: #008080;
+}
 .timeline-area .timeline-icon,
 .timeline-area .timeline-description {
     padding: 10px;
